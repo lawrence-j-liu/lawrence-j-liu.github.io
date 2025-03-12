@@ -54,7 +54,7 @@ interests:
   - State-Society Relations
 
 education:
-  - area: PhD Candidate, Jurisprudence & Social Policy (JSP)
+  - area: PhD, JSP, Expected 2025
     institution: UC Berkeley Law
 #    date_start: 2016-01-01
 #    date_end: 2020-12-31
@@ -74,7 +74,7 @@ education:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: MA, Jurisprudence & Social Policy (JSP), 2018
+  - area: MA, JSP, 2018
     institution: UC Berkeley Law
 #    date_start: 2016-01-01
 #    date_end: 2020-12-31
@@ -179,8 +179,11 @@ education:
 
 ## About Me
 
-Welcome! I am a doctoral candidate in Jurisprudence & Social Policy at Berkeley Law and will be an Associate Professor of Law at Washington University in St. Louis beginning summer 2026. I study comparative law and politics, with a focus on how law mediates state-society relations in China and the United States. My research pays particular attention to the actors who engage legal processes and institutions, seeking to understand how law and politics shape these actors' decisionmaking processes and to identify key implications for international trade, administrative law, and contemporary Chinese law. These interests are reflected in my published work as well as my ongoing dissertation project, which studies the domestic administrative process that result in the imposition of “defensive” trade measures in both countries.
+Welcome! I am a doctoral candidate in [Jurisprudence & Social Policy (JSP)](https://jsp-ls.berkeley.edu/graduate-program) at UC Berkeley Law. In summer 2026, I will join [Washington University School of Law](https://law.washu.edu/) as an associate professor.
 
- I hold a J.D. from Yale Law School and a B.A., magna cum laude and Phi Beta Kappa, from Princeton University’s School of Public and International Affairs. Previously, I served as a law clerk to the Honorable Andrew D. Hurwitz on the U.S. Court of Appeals for the Ninth Circuit.
- 
+I study comparative law and politics, with a focus on how law mediates state-society relations in China and the United States. My research pays particular attention to the actors who engage legal processes and institutions, seeking to understand how law and politics shape these actors' decisionmaking processes and to identify key implications for international trade, administrative law, and contemporary Chinese law. These interests are reflected in my published work as well as my ongoing dissertation project, which studies the domestic administrative process that result in the imposition of “defensive” trade measures in both countries.
+
+I hold a J.D. from Yale Law School and a B.A., magna cum laude and Phi Beta Kappa, from Princeton University’s School of Public and International Affairs. Previously, I served as a law clerk to the Honorable Andrew D. Hurwitz on the U.S. Court of Appeals for the Ninth Circuit. 
+
+For a current version of my CV, please email me.
 ---
