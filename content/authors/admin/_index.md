@@ -187,6 +187,4 @@ I hold a J.D. from Yale Law School and a B.A., magna cum laude and Phi Beta Kapp
 
 For a current version of my CV, please email me.
 
----
 
-## Test
