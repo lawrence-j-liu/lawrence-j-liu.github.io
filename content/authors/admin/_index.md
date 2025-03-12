@@ -48,7 +48,7 @@ profiles:
 
 interests:
   - Trade & Globalization
-  - Contemporary Chinese Law & Politics
+  - Chinese Law & Politics
   - Administrative Law
   - Legal Profession
   - State-Society Relations
@@ -186,4 +186,7 @@ I study comparative law and politics, with a focus on how law mediates state-soc
 I hold a J.D. from Yale Law School and a B.A., magna cum laude and Phi Beta Kappa, from Princeton University’s School of Public and International Affairs. Previously, I served as a law clerk to the Honorable Andrew D. Hurwitz on the U.S. Court of Appeals for the Ninth Circuit. 
 
 For a current version of my CV, please email me.
+
 ---
+
+## Test
