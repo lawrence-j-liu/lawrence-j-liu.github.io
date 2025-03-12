@@ -54,24 +54,26 @@ sections:
 #      view: article-grid
 #      columns: 2
   - block: collection
+    id: papers
     content:
       title: Publications and Working Papers
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
+      text: ""  
+#      filters:
+#        folders:
+#          - publication
+#        exclude_featured: false
     design:
       view: list
 
   - block: collection
+    id: teaching
     content:
       title: Teaching
       text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
+#      filters:
+#        folders:
+#          - publication
+#        exclude_featured: false
     design:
       view: list
 #  - block: collection

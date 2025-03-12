@@ -11,6 +11,6 @@ main:
     url: /#papers
     weight: 11
   - name: Teaching
-    url: /#talks
+    url: /#teaching
     weight: 12
 
