@@ -63,6 +63,7 @@ sections:
           - publications
       design: 
         columns: '1'
+        view: list
   - block: markdown
     id: teaching
     content:
