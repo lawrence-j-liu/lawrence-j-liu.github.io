@@ -21,7 +21,7 @@ sections:
     design:
       css_class: dark
       background:
-        color: sky
+        color: zinc
         #image:
           # Add your image background to `assets/media/`.
           #filename: stacked-peaks.svg
@@ -100,7 +100,6 @@ sections:
         We construct a database of federal appellate cases involving religious liberties decided between 2006 and 2015, expanding and improving an existing database covering up to 2005. The data are used to investigate the role of religion in judicial decision making. We find that Jewish judges are significantly more likely than their non-Jewish colleagues to favor claimants in religious liberties cases, but we find no significant effects for other minority religions. Our findings confirm previous findings in the literature, but we go a number of steps further than existing studies in uncovering the sources of Jewish judges’ influence. We conclude that the effect of Jewish judges comes through their increased concern for the separation of church and state—not through their heightened solicitude for the interests of religious minorities in practicing their religion or through preferential treatment of Jewish claimants. Further, our analysis of cases not involving religion shows that the pro-claimant effect of Jewish judges is attributable not to a general liberal attitude but to a particular secular concern for the separation of church and state. Finally, we are the first researchers to go beyond individual effects and investigate the panel effects of judges’ religious affiliation. Our findings in this regard have suggestive implications for identifying the mechanism of panel effects.
         - Link to publication [here](https://onlinelibrary.wiley.com/doi/10.1111/jels.12162)
         {{< /spoiler >}}
-
   - block: markdown
     id: teaching
     content:
