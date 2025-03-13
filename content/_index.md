@@ -114,13 +114,13 @@ sections:
       title: TEACHING
       text: |-
         ##### UC Berkeley (GSI)
-        - LAW 209.3: Quantitative Approaches to Law & Social Science (graduate)
-        - LS 136: Law & Rights in Authoritarian States (undergraduate)
-        - LS 184: Sociology of Law (undergraduate)
-
+        - ###### LAW 209.3: Quantitative Approaches to Law & Social Science (graduate)
+        - ###### LS 136: Law & Rights in Authoritarian States (undergraduate)
+        - ###### LS 184: Sociology of Law (undergraduate)
         <br>
+        
         ##### Yale Law School (TA)
-        - LAW 21124: Federal and State Courts in a Federal System
+        - ###### LAW 21124: Federal and State Courts in a Federal System
 #    design: 
 #      columns: '1'
 #      filters:
