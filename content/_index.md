@@ -70,8 +70,6 @@ sections:
 #        folders:
 #          - publication
 #        exclude_featured: false
-    design:
-      view: list
 #  - block: collection
 #    id: news
 #    content:
