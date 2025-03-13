@@ -61,7 +61,6 @@ sections:
         {{< spoiler text="CLawrence J. Liu. 2024. "Independence through Judicialization: The Politics Surrounding Administrative Adjudicators, 1929-1949." _Michigan Journal of Environmental and Administrative Law_ 13(2): 522-69." >}}
         Test
         {{< /spoiler >}}
-        
   - block: markdown
     id: teaching
     content:
