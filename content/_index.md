@@ -21,7 +21,7 @@ sections:
     design:
       css_class: dark
       background:
-        color: white
+        color: zinc
         #image:
           # Add your image background to `assets/media/`.
           #filename: stacked-peaks.svg
@@ -53,15 +53,14 @@ sections:
 #    design:
 #      view: article-grid
 #      columns: 2
-  - block: collection
+  - block: markdown
     id: papers
     content:
       title: Publications
       text: |-
-        Lawrence J. Liu. 2021. The Rules of the (Belt and) Road: How Lawyers Participate in China's Outbound Investment and Infrastructure Initiatives. _Yale Journal of International Law Online_ 46: 168-96." >}}[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3897109)
-    filters:
-      folders:
-        - publications
+        {{< spoiler text="Lawrence J. Liu. 2021. The Rules of the (Belt and) Road: How Lawyers Participate in China's Outbound Investment and Infrastructure Initiatives. _Yale Journal of International Law Online_ 46: 168-96." >}}[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3897109)
+        This article complicates the conventional wisdom that Chinese lawyers are either politically liberal activists or apolitical hired guns by training our attention on the group of lawyers who choose to stand adjacent to the state and participate in governance. Through an examination of how and why winners of the state-sanctioned Outstanding Lawyer Award participate in politics, we illustrate how state-adjacent lawyers provide the state with information and persuade others to behave in ways the state considers appropriate. Although proximity to power affords some social and professional benefits, award winners are also motivated by a commitment to improving Chinese society. By highlighting the political role played by lawyers who serve as a bridge between state and society, we open the door to future research on the relationship between the state and professionals in other industries and countries, and call for continued attention to how inequality shapes opportunities for political participation in China.
+        {{< /spoiler >}}
   - block: markdown
     id: teaching
     content:
