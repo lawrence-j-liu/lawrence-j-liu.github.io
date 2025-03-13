@@ -21,7 +21,7 @@ sections:
     design:
       css_class: dark
       background:
-        color: cream
+        color: white
         #image:
           # Add your image background to `assets/media/`.
           #filename: stacked-peaks.svg
@@ -53,7 +53,7 @@ sections:
 #    design:
 #      view: article-grid
 #      columns: 2
-  - block: markdown
+  - block: collection
     id: papers
     content:
       title: Publications
