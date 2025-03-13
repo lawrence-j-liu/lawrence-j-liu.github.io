@@ -59,6 +59,9 @@ sections:
       title: Publications
       text: |-
         Lawrence J. Liu. 2021. The Rules of the (Belt and) Road: How Lawyers Participate in China's Outbound Investment and Infrastructure Initiatives. _Yale Journal of International Law Online_ 46: 168-96." >}}[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3897109)
+    filters:
+      folders:
+        - publications
   - block: markdown
     id: teaching
     content:
