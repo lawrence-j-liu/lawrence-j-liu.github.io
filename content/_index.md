@@ -53,17 +53,11 @@ sections:
 #    design:
 #      view: article-grid
 #      columns: 2
-  - block: collection
+  - block: markdown
     id: papers
     content:
       title: Publications
-      text: Test
-      filters:
-        folders:
-          - publications
-      design: 
-        columns: '1'
-        view: list
+      text: _test if markdown is working_ 2017.
   - block: markdown
     id: teaching
     content:
