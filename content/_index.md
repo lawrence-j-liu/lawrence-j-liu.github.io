@@ -69,9 +69,12 @@ sections:
         A bottom-up view of administrative trade remedies in the United States contributes first to our understanding of trade lawmaking and policy. In addition to highlighting the continued relevance of focusing on private actors and agency processes, the premium that relevant actors place on a process’s perceived distance from politics and predictability helps explain the continuing popularity of such a scheme, as well as the value of consistent agency practice during a time of high political polarization and volatility. This approach can also travel to other countries, where the use of defensive measures is similarly on the rise, or to other areas of U.S. trade law. Second, I contribute to scholarship that seeks to “normalize” trade law. The mixed public-private nature of the trade-remedies enforcement scheme and interviewees’ discussions of the pros and cons of administrative procedures illustrate the benefits of bringing research on “ordinary” areas of domestic law to bear on trade law, and vice versa.
         - Current draft (v. March 2025) available upon request
         {{< /spoiler >}}
-        <br>
+        - ###### {{< spoiler text="The Repeat Players Behind U.S. Administrative Trade Remedies" >}}
+        {{< /spoiler >}}
+        - ###### {{< spoiler text="Surveying Chinese and American Social Attitudes Towards the Use of AI in Adjudication (with Jinghua Chen, Han Liu, Xinbo Lin, Eddie Yang, Taisu Zhang)" >}}
+        {{< /spoiler >}}
 
-        ##### Publications
+        #### Publications
         - ###### {{< spoiler text="Lawrence J. Liu. 2024. Independence through Judicialization: The Politics Surrounding Administrative Adjudicators, 1929-1949. Michigan Journal of Environmental and Administrative Law 13(2): 522-69." >}}
         One front in today’s battle to define the scope of the administrative state concerns the authority, status, and future of its 10,000-plus administrative adjudicators. Decisions by federal courts and the executive branch to increase the dependence of administrative adjudicators on the executive have sparked strong reactions from observers, with many advocating for measures to increase adjudicator “independence.” But who should administrative adjudicators be independent of, which ought to be independent, and why? 
         
