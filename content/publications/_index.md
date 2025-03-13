@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 date: 2025-03-12
-draft: false
+draft: true
 description: "Here are my publications."
 ---
 
