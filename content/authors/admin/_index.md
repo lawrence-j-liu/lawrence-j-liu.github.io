@@ -54,7 +54,7 @@ interests:
   - State-Society Relations
 
 education:
-  - area: PhD, JSP, Expected 2025
+  - area: Ph.D., JSP, Expected 2025
     institution: UC Berkeley Law
 #    date_start: 2016-01-01
 #    date_end: 2020-12-31
@@ -63,7 +63,7 @@ education:
 #    button:
 #      text: 'Read Thesis'
 #      url: 'https://example.com'
-  - area: JD, 2022
+  - area: J.D., 2022
     institution: Yale Law School
 #    date_start: 2016-01-01
 #    date_end: 2020-12-31
@@ -74,7 +74,7 @@ education:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: MA, JSP, 2018
+  - area: M.A., JSP, 2018
     institution: UC Berkeley Law
 #    date_start: 2016-01-01
 #    date_end: 2020-12-31
@@ -85,7 +85,7 @@ education:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: AB, School of Public & International Affairs, 2016
+  - area: A.B., School of Public & International Affairs, 2016
     institution: Princeton University
 #    date_start: 2016-01-01
 #    date_end: 2020-12-31
