@@ -57,7 +57,10 @@ sections:
     id: papers
     content:
       title: Publications
-      text: _test if markdown is working_ 2017.
+      text: ""
+    filters:
+      folders:
+        - publications
   - block: markdown
     id: teaching
     content:
