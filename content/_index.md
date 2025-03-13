@@ -57,7 +57,7 @@ sections:
     id: papers
     content:
       title: Publications
-      text: "Test"
+      text: Test
       #filters:
       #  folders:
       #    - publications
