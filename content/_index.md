@@ -57,7 +57,7 @@ sections:
     id: papers
     content:
       title: Publications
-      text: _test if markdown format is working_
+      text: ""
   - block: markdown
     id: teaching
     content:
