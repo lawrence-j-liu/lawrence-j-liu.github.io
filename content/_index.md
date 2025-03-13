@@ -57,13 +57,13 @@ sections:
     id: papers
     content:
       title: Publications
-      text: ""
-      filters:
-        folders:
-          - publications
+      text: "Test"
+      #filters:
+      #  folders:
+      #    - publications
       design: 
         columns: '1'
-        view: list
+ #       view: list
   - block: markdown
     id: teaching
     content:
