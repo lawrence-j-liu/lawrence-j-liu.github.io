@@ -22,7 +22,7 @@ sections:
       css_class: dark
       background:
         color: zinc
-        image:
+        #image:
           # Add your image background to `assets/media/`.
           #filename: stacked-peaks.svg
           #filters:
