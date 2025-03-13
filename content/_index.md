@@ -59,7 +59,7 @@ sections:
       title: RESEARCH
       text: |-
         ##### Works in Progress
-        ######## {{< spoiler text="Lawrence J. Liu. Opening the Tariff Toolkit: The Demand for Administrative Trade Remedies in the United States. Working Paper." >}}
+        - {{< spoiler text="Lawrence J. Liu. Opening the Tariff Toolkit: The Demand for Administrative Trade Remedies in the United States. Working Paper." >}}
         After decades of moves towards trade liberalization, trade restrictions, especially tariffs, are back in vogue. The United States has raised tariffs on numerous products, paralyzed the World Trade Organization’s dispute-settlement system, and engaged in a trade war with China. The continuation of adversarial actions seems assured, with both political parties indicating interest in higher tariffs to defend against imports from various countries and ongoing calls to “decouple” from China.
         
         Against this backdrop of rising trade tensions and weakening international legal constraints, I examine the demand for such defensive trade measures and the domestic administrative processes that result in them. I adopt a bottom-up perspective that trains attention on the actors that engage these processes through the enforcement of “administrative trade remedies,” which I define broadly to include any domestic law that aims to defend domestic industries against imports and is administered by an administrative agency, e.g., antidumping duties or Section 232 national-security trade actions. Rather than focus on Congress or the President, this view better appreciates the role of firms, workers, and lawyers in mobilizing administrative agencies to enforce, and thereby make, trade law.
@@ -81,6 +81,7 @@ sections:
         What does this history teach? First, it illustrates how actors past and present deploy seemingly apolitical terms like judicial values, independence, or administrative procedure to obtain substantive political ends. Indeed, such terms can take on different meanings at different times, perhaps varying with views of the federal judiciary and active government, the policies and political strength of the President, the issues decided by administrative agencies, or the types of claimants subject to adjudication. Second, it highlights how early supporters of administrative agencies emphasized the diversity among administrative adjudicators, while opponents grouped them together to collectively limit their authority. Today, rather than pursuing one-size-fits-all reforms, I suggest that different rules should apply to different administrative adjudicators depending on the questions and claimants involved. Decisions about ratemaking or regulatory enforcement differ from individualized determinations whether citizens qualify for government benefits or licenses. Claims by business interests might be treated differently from those by more vulnerable groups, such as disability-benefits recipients or noncitizens at risk of removal. In any event, when making policy recommendations, reformers should begin by understanding who administrative adjudicators are and the functions they perform, an understanding that also underscores whether and how politics should animate arguments about adjudicator independence.
         - Link to publication [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895926)
         {{< /spoiler >}}
+        <br>
         
         ###### {{< spoiler text="Lawrence J. Liu. 2021. The Rules of the (Belt and) Road: How Lawyers Participate in China's Outbound Investment and Infrastructure Initiatives. Yale Journal of International Law Online 46: 168-96" >}}
         This article provides a bottom-up view of China’s Belt and Road Initiative (BRI) though an empirical examination of how and why domestic lawyers are engaged in BRI investment and infrastructure projects. Drawing on an original dataset of biographical information of, and eleven semi-structured interviews with, lawyers identified by the state as “BRI and Cross-Border Legal Experts,” I examine these lawyers’ demographic characteristics, the knowledge they rely upon in their work, and their motivations. I find that China’s BRI lawyers work and speak in ways similar to cross-border lawyers from countries like the United States. At the same time, these state-adjacent professionals acknowledge the state’s heavy involvement in crafting the environment surrounding their work. Although these politics do not necessarily affect the technical aspects of their practice, many keep close tabs on BRI policies, some are involved in policy reform efforts, and most express pride in what a successful BRI might mean for China’s future.
@@ -113,14 +114,13 @@ sections:
       title: TEACHING
       text: |-
         ##### UC Berkeley (GSI)
-
-          ###### LAW 209.3: Quantitative Approaches to Law & Social Science (graduate)
-          ###### LS 136: Law & Rights in Authoritarian States (undergraduate)
-          ###### LS 184: Sociology of Law (undergraduate)
+        - LAW 209.3: Quantitative Approaches to Law & Social Science (graduate)
+        - LS 136: Law & Rights in Authoritarian States (undergraduate)
+        - LS 184: Sociology of Law (undergraduate)
 
         <br>
         ##### Yale Law School (TA)
-          ###### LAW 21124: Federal and State Courts in a Federal System
+        - LAW 21124: Federal and State Courts in a Federal System
 #    design: 
 #      columns: '1'
 #      filters:
