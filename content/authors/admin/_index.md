@@ -179,7 +179,7 @@ education:
 
 Welcome! I am a doctoral candidate in [Jurisprudence & Social Policy (JSP)](https://jsp-ls.berkeley.edu/graduate-program) at UC Berkeley Law. In summer 2026, I will join [Washington University School of Law](https://law.washu.edu/) as an associate professor.
 
-I study comparative law and politics, with a focus on how law mediates state-society relations in China and the United States. My research pays particular attention to the actors who engage legal processes and institutions, seeking to understand how law and politics shape these actors' decisionmaking processes, with implications for international trade, administrative law, and contemporary Chinese law. These interests are reflected in my publications as well as my dissertation research on the domestic administrative process that result in the imposition of “defensive” trade measures in both countries.
+I study comparative law and politics, with a focus on state-society relations in China and the United States. My research pays particular attention to the actors who engage legal processes and institutions, seeking to understand how law and politics shape these actors' decisionmaking processes, with implications for international trade, administrative law, and contemporary Chinese law. My ongoing dissertation project researches the domestic administrative process that result in the imposition of “defensive” trade measures in both countries.
 
 Previously, I served as a law clerk to the Honorable Andrew D. Hurwitz on the U.S. Court of Appeals for the Ninth Circuit. 
 
