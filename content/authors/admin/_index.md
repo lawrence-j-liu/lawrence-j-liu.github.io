@@ -177,7 +177,7 @@ education:
 
 ---
 
-Welcome! I am a doctoral candidate in [Jurisprudence & Social Policy (JSP)](https://jsp-ls.berkeley.edu/graduate-program) at UC Berkeley Law. Beginning summer 2025, I will be a Research Fellow at [Stanford Law School's Neukom Center for the Rule of Law(https://law.stanford.edu/neukom-center-for-the-rule-of-law/)], and I will join [Washington University School of Law](https://law.washu.edu/) as an associate professor in summer 2026.
+Welcome! I am a doctoral candidate in [Jurisprudence & Social Policy (JSP)](https://jsp-ls.berkeley.edu/graduate-program) at UC Berkeley Law. Beginning summer 2025, I will be a Research Fellow at [Stanford Law School's Neukom Center for the Rule of Law](https://law.stanford.edu/neukom-center-for-the-rule-of-law/), and I will join [Washington University School of Law](https://law.washu.edu/) as an associate professor in summer 2026.
 
 I study comparative law and politics, with a focus on state-society relations in China and the United States. My research pays particular attention to the actors who engage and occupy legal processes or institutions. Drawing on interdisciplinary scholarship and mixed-method research tools, I seek to understand how law and politics shape these actors' decisionmaking processes and to identify implications for international trade, administrative law, and Chinese law. My ongoing dissertation project researches the domestic administrative processes that result in the imposition of “defensive” trade measures in both countries.
 
