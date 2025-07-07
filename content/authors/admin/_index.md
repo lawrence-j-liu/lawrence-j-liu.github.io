@@ -41,8 +41,8 @@ profiles:
 #    url: https://github.com/gcushen
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/lawrence-j-liu-18b05985
- # - icon: academicons/google-scholar
- #   url: https://scholar.google.com/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=jKAVpikAAAAJ&hl=en&oi=ao
  # - icon: academicons/orcid
  #   url: https://orcid.org/
 
