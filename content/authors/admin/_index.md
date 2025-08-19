@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lawrence J. Liu
+title: Lawrence J. Liu, J.D., Ph.D.
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Candidate
+role: Fellow, Neukom Center for the Rule of Law
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: UC Berkeley School of Law
+  - name: Stanford Law School 
     #url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:ljliu@berkeley.edu'
+    url: 'mailto:lliu@law.stanford.edu'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/lawrence_j_liu
@@ -54,7 +54,7 @@ interests:
   - State-Society Relations
 
 education:
-  - area: Ph.D., JSP, expected 2025
+  - area: Ph.D., JSP, 2025
     institution: UC Berkeley Law
 #    date_start: 2016-01-01
 #    date_end: 2020-12-31
@@ -177,7 +177,7 @@ education:
 
 ---
 
-Welcome! I am a doctoral candidate in [Jurisprudence & Social Policy (JSP)](https://jsp-ls.berkeley.edu/graduate-program) at UC Berkeley Law. Beginning summer 2025, I will be a Research Fellow at [Stanford Law School's Neukom Center for the Rule of Law](https://law.stanford.edu/neukom-center-for-the-rule-of-law/), and I will join [Washington University School of Law](https://law.washu.edu/) as an associate professor in summer 2026.
+Welcome! I am a Fellow at [Stanford Law School's Neukom Center for the Rule of Law](https://law.stanford.edu/neukom-center-for-the-rule-of-law/). In summer 2026, I will join [Washington University School of Law](https://law.washu.edu/) as an associate professor.
 
 I study comparative law and politics, with a focus on state-society relations in China and the United States. My research pays particular attention to the actors who engage and occupy legal processes or institutions. Drawing on interdisciplinary scholarship and mixed-method research tools, I seek to understand how law and politics shape these actors' decisionmaking processes and to identify implications for international trade, administrative law, and Chinese law. My ongoing dissertation project researches the domestic administrative processes that result in the imposition of “defensive” trade measures in both countries.
 
