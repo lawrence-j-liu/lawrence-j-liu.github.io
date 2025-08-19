@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Fellow
+role: Rule of Law Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Neukom Center for the Rule of Law, Stanford Law School 
+  - name: Stanford Law School 
     #url: https://openai.com/
 
 # Social network links
