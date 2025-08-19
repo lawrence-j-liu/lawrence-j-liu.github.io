@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lawrence J. Liu, J.D., Ph.D.
+title: Lawrence J. Liu
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Fellow, Neukom Center for the Rule of Law
+role: Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Stanford Law School 
+  - name: Neukom Center for the Rule of Law, Stanford Law School 
     #url: https://openai.com/
 
 # Social network links
