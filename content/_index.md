@@ -59,7 +59,7 @@ sections:
       title: RESEARCH
       text: |-
         #### Works in Progress
-        - ###### {{< spoiler text="Lawrence J. Liu. Opening the Tariff Toolkit: The Demand for Administrative Trade Remedies in the United States. Working Paper." >}}
+        - ###### {{< spoiler text="Lawrence J. Liu. Forthcoming 2026. Opening the Tariff Toolkit: The Demand for Administrative Trade Remedies in the United States. New York University Law Review 101." >}}
         After decades of moves towards trade liberalization, trade restrictions are back in vogue. The United States is raising tariffs, escalating tensions with trading partners, and has paralyzed the World Trade Organization’s dispute-settlement system. The continuation of adversarial actions seems assured, with both political parties indicating interest in defending against imports, ongoing calls to “decouple” from China, and President Trump’s penchant for unilateral tariffs.
         
         Against this backdrop of rising trade tensions and weakening international legal constraints, I examine the demand for defensive trade measures and the domestic administrative processes that result in them. I advance a bottom-up perspective that trains attention on the actors that mobilize these processes to enforce “administrative trade remedies,” which I define broadly to include any domestic law that aims to defend domestic industries against imports and is administered by an administrative agency, e.g., antidumping duties or Section 232 national-security trade actions. Rather than focus on Congress or the President, this view appreciates the role of firms, workers, and lawyers in mobilizing administrative agencies to enforce, and thereby make, trade law.
