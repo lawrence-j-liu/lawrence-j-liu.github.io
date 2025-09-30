@@ -61,10 +61,11 @@ sections:
         #### Works in Progress
         - ###### {{< spoiler text="Lawrence J. Liu. Opening the Tariff Toolkit: The Demand for Administrative Trade Remedies in the United States. Working Paper." >}}
         After decades of moves towards trade liberalization, trade restrictions are back in vogue. The United States is raising tariffs, escalating tensions with trading partners, and has paralyzed the World Trade Organization’s dispute-settlement system. The continuation of adversarial actions seems assured, with both political parties indicating interest in defending against imports, ongoing calls to “decouple” from China, and President Trump’s penchant for unilateral tariffs.
+        
         Against this backdrop of rising trade tensions and weakening international legal constraints, I examine the demand for defensive trade measures and the domestic administrative processes that result in them. I advance a bottom-up perspective that trains attention on the actors that mobilize these processes to enforce “administrative trade remedies,” which I define broadly to include any domestic law that aims to defend domestic industries against imports and is administered by an administrative agency, e.g., antidumping duties or Section 232 national-security trade actions. Rather than focus on Congress or the President, this view appreciates the role of firms, workers, and lawyers in mobilizing administrative agencies to enforce, and thereby make, trade law.
 
         I draw on over forty interviews with those involved in administrative trade-remedy processes and original datasets of agency investigations to describe how those who seek and benefit from tariffs choose among a toolkit of remedies. Although tools with greater presidential involvement in the decisionmaking process are receiving increased attention, I find that private actors remain actively engaged in the enforcement of administrative trade remedies. And, they continue to prefer the antidumping and countervailing duty process because of its relative insulation from politics (especially the President) and resulting predictability and durability.
-        
+
         A bottom-up view of administrative trade remedies in the United States contributes first to our understanding of trade lawmaking and policy. In addition to highlighting the relevance of private actors and agency processes, the premium that relevant actors place on a process’s perceived distance from politics and predictability helps explain the continuing popularity of such a scheme, as well as the value of consistent agency practice during a time of high political polarization and volatility. This approach can also travel to other countries, where the use of defensive measures is similarly on the rise, or to other areas of U.S. trade law. Second, I contribute to scholarship that seeks to “normalize” trade law. The mixed public-private nature of the trade-remedies enforcement scheme and interviewees’ discussions of the pros and cons of administrative procedures illustrate the benefits of bringing research on “ordinary” areas of domestic law to bear on trade law, and vice versa.
         - Current draft (v. August 2025) available upon request
         {{< /spoiler >}}
@@ -108,6 +109,9 @@ sections:
     content:
       title: TEACHING
       text: |-
+        #### Stanford Law School (Co-Instructor)
+        - ###### LAW 7151: Rule of Law, Democracy, and Authoritarianism Workshop
+        
         #### UC Berkeley (GSI)
         - ###### LAW 209.3: Quantitative Approaches to Law & Social Science (graduate)
         - ###### LS 136: Law & Rights in Authoritarian States (undergraduate)
