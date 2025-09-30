@@ -179,7 +179,7 @@ education:
 
 Welcome! I am a Fellow at [Stanford Law School's Neukom Center for the Rule of Law](https://law.stanford.edu/neukom-center-for-the-rule-of-law/). In summer 2026, I will join [Washington University School of Law](https://law.washu.edu/) as an associate professor.
 
-I study comparative law and politics, with a focus on state-society relations in China and the United States. My research pays particular attention to the actors who engage and occupy legal processes or institutions. Drawing on interdisciplinary scholarship and mixed-method research tools, I seek to understand how law and politics shape these actors' decisionmaking processes and to identify implications for international trade, administrative law, and Chinese law. My ongoing dissertation project researches the domestic administrative processes that result in the imposition of “defensive” trade measures in both countries.
+I study comparative law and politics, with a focus on state-society relations in China and the United States. My research pays particular attention to the actors who engage and occupy legal processes or institutions. Drawing on interdisciplinary scholarship and mixed-method research tools, I seek to understand how law and politics shape these actors' decisionmaking processes and to identify implications for international trade, administrative law, and Chinese law. My doctoral dissertation researched the domestic administrative processes that result in the imposition of “defensive” trade measures in both countries.
 
 Previously, I served as a law clerk to the Honorable Andrew D. Hurwitz on the U.S. Court of Appeals for the Ninth Circuit. 
 
