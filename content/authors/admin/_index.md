@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Rule of Law Fellow
+role: Rule of Law Fellow | Lecturer in Law
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
