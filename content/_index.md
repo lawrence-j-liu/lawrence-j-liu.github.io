@@ -127,6 +127,9 @@ sections:
     content:
       title: TEACHING
       text: |-
+        #### Washington University School of Law (Instructor)
+        - ###### LAW 7071: Chinese Law, Politics and Society Seminar
+
         #### Stanford Law School (Co-Instructor)
         - ###### LAW 7151: Rule of Law, Democracy, and Authoritarianism Workshop
         
