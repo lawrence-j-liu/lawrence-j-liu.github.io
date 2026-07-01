@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Rule of Law Fellow | Lecturer in Law
+role: Associate Professor of Law
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Stanford Law School 
+  - name: Washington University in St. Louis 
     #url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:lliu@law.stanford.edu'
+    url: 'mailto:lawrenceliu@wustl.edu'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/lawrence_j_liu
@@ -177,10 +177,10 @@ education:
 
 ---
 
-Welcome! I am a Fellow at [Stanford Law School's Neukom Center for the Rule of Law](https://law.stanford.edu/lawrence-j-liu/). In summer 2026, I will join [Washington University School of Law](https://law.washu.edu/directory/profile/lawrence-j-liu/) as an associate professor.
+Welcome! I am an Associate Professor of Law at [Washington University in St. Louis](https://law.washu.edu/directory/profile/lawrence-j-liu/).
 
 I study comparative law and politics, with a focus on state-society relations in China and the United States. My research pays particular attention to the actors who engage and occupy legal processes or institutions. Drawing on interdisciplinary scholarship and mixed-method research tools, I seek to understand how law and politics shape these actors' decisionmaking processes and to identify implications for international trade, administrative law, and Chinese law. My doctoral dissertation researched the domestic administrative processes that result in the imposition of “defensive” trade measures in both countries.
 
-Previously, I served as a law clerk to the Honorable Andrew D. Hurwitz on the U.S. Court of Appeals for the Ninth Circuit. 
+Prior to joining the faculty at WashU Law, I was a Fellow and Lecturer in Law at [Stanford's Neukom Center for the Rule of Law](https://law.stanford.edu/lawrence-j-liu/). I hold a Ph.D. in Jurisprudence and Social Policy from the University of California, Berkeley, a J.D. from Yale Law School, and an A.B., magna cum laude and Phi Beta Kappa, from Princeton University’s School of Public and International Affairs. I clerked for the Honorable Andrew D. Hurwitz on the U.S. Court of Appeals for the Ninth Circuit. 
 
-For a current version of my CV, please email me.
+For a current version of my CV, please email me at [lawrenceliu@wustl.edu](mailto:lawrenceliu@wustl.edu).
