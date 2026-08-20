@@ -75,7 +75,7 @@ sections:
         {{< /spoiler >}}
 
         #### Publications
-        - ###### {{< spoiler text="Lawrence J. Liu & Alex Zhang. Forthcoming 2026. Tariffs and the Progressive Fiscal Constitution. Washington University Law Review 103." >}}
+        - ###### {{< spoiler text="Lawrence J. Liu & Alex Zhang. 2026. Tariffs and the Progressive Fiscal Constitution. Washington University Law Review 103: 1933-63." >}}
         For more than a century, progressive taxation has constituted the American fiscal state. A resurgent and expanding tariff regime, however, threatens that commitment to progressive distribution. Given the ongoing popularity of tariffs, this Article examines how they might be designed and administered in a way that mitigates their regressive distributive impact. The Article thus develops and assesses proposals to (1) vary tariff burdens in accordance with the consumption of imported goods, (2) reduce income- or payroll-tax burdens on lower-income households, and (3) earmark tariff revenue for specified spending programs. Although none is perfect, we seek to articulate possibilities and highlight relevant considerations for policymakers seeking to make tariffs better cohere with our progressive fiscal constitution.
         - Link to publication [here](https://papers.ssrn.com/abstract=6396238)
         {{< /spoiler >}}
